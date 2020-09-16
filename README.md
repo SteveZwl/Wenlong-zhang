@@ -1,7 +1,6 @@
 # Wenlong-zhang
-practice project
 
-first weekly report
+First Weekly Report
 
 
 【2020-9-12】attend public class about new technique in machine learning 
@@ -11,6 +10,8 @@ first weekly report
 【2020-9-10】attend the graduate writing skills class and do some practice 
  
 【2020-9-09】1.create Github project and upload local projects            2.create Readme and fill in my imformation 
+
+Second Weekly Report
 
 
 
