@@ -13,6 +13,13 @@ First Weekly Report
 
 Second Weekly Report
 
+【2020-9-19】Assemble the raspberry pie and do some simple test
+
+【2020-9-18】Study IEEE writing skills from IEEE rescarch
+
+【2020-9-17】study <<IoT-From Research and Innovation to Market Deployment>> chapter 3 to 4 
+
+【2020-9-16】attend IOT class
 
 
 RESEARCH EXPERIENCE 
