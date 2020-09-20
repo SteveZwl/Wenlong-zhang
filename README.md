@@ -17,9 +17,9 @@ Second Weekly Report
 
 【2020-9-18】Study IEEE writing skills from IEEE rescarch
 
-【2020-9-17】study <<IoT-From Research and Innovation to Market Deployment>> chapter 3 to 4 
+【2020-9-17】Study "IoT-From Research and Innovation to Market Deployment" chapter 3 to 4 
 
-【2020-9-16】attend IOT class
+【2020-9-16】Attend IOT class
 
 
 RESEARCH EXPERIENCE 
