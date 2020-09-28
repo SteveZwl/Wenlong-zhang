@@ -21,6 +21,12 @@ Second Weekly Report
 
 【2020-9-16】Attend IOT class
 
+Third Weekly Report
+
+【2020-9-26】syudy IEEE publications 
+【2020-9-25】finish a simple experiment with Raspberry Pi, write an announciator program in it
+【2020-9-24】Study the chapter 5 of "IoT-From Research and Innovation to Market Deployment"
+【2020-9-23】Assemble the raspberry pie and do some simple test
 
 RESEARCH EXPERIENCE 
 
