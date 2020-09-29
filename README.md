@@ -31,6 +31,11 @@ Third Weekly Report
 
 【2020-9-23】Assemble the raspberry pie and do some simple test
 
+Fourth Weekly Report
+
+【2020-9-28】review IOT lesson in zoom
+
+
 RESEARCH EXPERIENCE 
 
 
