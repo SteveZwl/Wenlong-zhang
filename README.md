@@ -1,6 +1,12 @@
 # Wenlong-zhang
 
-【2020-10-5】intrudce simple algrothem for others
+【2020-10-20】The midterm exam week
+
+【2020-10-20】Face Recognition Project haldware plan
+
+【2020-10-15】Face Recognition Project Related information
+
+【2020-10-10】Face Recognition Project propasal
 
 【2020-10-4】intruduce project for group
 
