@@ -4,7 +4,7 @@
 
 【2020-10-20】Face Recognition Project haldware plan https://github.com/SteveZwl/Face-Recognition/blob/main/Hadware
 
-【2020-10-15】Face Recognition Project Related information 
+【2020-10-15】Face Recognition Project Related information (FPGA)https://github.com/SteveZwl/Face-Recognition/blob/main/FPGA's%20implementation%20of%20face%20position%20recognition
 
 【2020-10-10】Face Recognition Project propasal https://github.com/SteveZwl/Face-Recognition/blob/main/Proposal
 
