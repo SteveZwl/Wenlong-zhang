@@ -1,6 +1,6 @@
 # Wenlong-zhang
 
-【2020-11-3】research about Comparison of relevant algorithms(about Face Recognition )
+【2020-11-3】research about Comparison of relevant algorithms(about Face Recognition from other IEEE member)https://github.com/hpc203/10kinds-light-face-detector-align-recognition
 
 【2020-10-20】The midterm exam week
 
