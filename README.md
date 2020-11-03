@@ -1,5 +1,7 @@
 # Wenlong-zhang
 
+【2020-11-3】research about Comparison of relevant algorithms(about Face Recognition )
+
 【2020-10-20】The midterm exam week
 
 【2020-10-20】Face Recognition Project haldware plan https://github.com/SteveZwl/Face-Recognition/blob/main/Hadware
