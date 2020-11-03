@@ -2,7 +2,7 @@
 
 【2020-10-20】The midterm exam week
 
-【2020-10-20】Face Recognition Project haldware plan
+【2020-10-20】Face Recognition Project haldware plan https://github.com/SteveZwl/Face-Recognition/blob/main/Hadware
 
 【2020-10-15】Face Recognition Project Related information 
 
