@@ -4,9 +4,9 @@
 
 【2020-10-20】Face Recognition Project haldware plan
 
-【2020-10-15】Face Recognition Project Related information
+【2020-10-15】Face Recognition Project Related information 
 
-【2020-10-10】Face Recognition Project propasal
+【2020-10-10】Face Recognition Project propasal https://github.com/SteveZwl/Face-Recognition/blob/main/Proposal
 
 【2020-10-4】intruduce project for group
 
