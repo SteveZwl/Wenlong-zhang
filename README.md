@@ -1,11 +1,11 @@
 # Wenlong-zhang
-【2020-11-23】collect dataset and finish test banch
+【2020-11-23】collected dataset and finish test banch(in the face reconganize project)
 
-【2020-11-21】finish design of basic the face recongonize system design
+【2020-11-21】finished designing of basic the face recongonize system design
 
-【2020-11-17】start the face recongonize system design
+【2020-11-17】started the face recongonize system design
 
-【2020-11-3】research about Comparison of relevant algorithms(about Face Recognition from other IEEE member)https://github.com/hpc203/10kinds-light-face-detector-align-recognition
+【2020-11-3】researched about Comparison of relevant algorithms(about Face Recognition from other IEEE member)https://github.com/hpc203/10kinds-light-face-detector-align-recognition
 
 【2020-10-20】The midterm exam week
 
