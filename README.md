@@ -1,4 +1,6 @@
 # Wenlong-zhang
+【2020-11-23】collect dataset and finish test banch
+
 【2020-11-21】finish design of basic the face recongonize system design
 
 【2020-11-17】start the face recongonize system design
