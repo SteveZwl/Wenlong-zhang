@@ -3,7 +3,7 @@
 
 【2020-11-21】finished designing of basic the face recongonize system design
 
-【2020-11-17】started the face recongonize system design
+【2020-11-17】started the face recongonize system design(https://github.com/SteveZwl/Face-Recognition/blob/main/Code%20for%20video)
 
 【2020-11-3】researched about Comparison of relevant algorithms(about Face Recognition from other IEEE member)https://github.com/hpc203/10kinds-light-face-detector-align-recognition
 
