@@ -33,9 +33,9 @@
 
 【2020-9-24】Study the chapter 5 of "IoT-From Research and Innovation to Market Deployment"
 
-【2020-9-23】Assemble the raspberry pie and do some simple test
+【2020-9-23】Assemble the raspberry pi and do some simple test
 
-【2020-9-19】Assemble the raspberry pie and do some simple test
+【2020-9-19】Assemble the raspberry pi and do some simple test
 
 【2020-9-18】Study IEEE writing skills from IEEE rescarch
 
