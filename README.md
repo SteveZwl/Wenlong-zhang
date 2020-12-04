@@ -1,4 +1,7 @@
 # Wenlong-zhang
+
+【2020-11-26】Finish IOT lab-2 (https://github.com/SteveZwl/IOT-Lab/blob/main/Lab-2.docx)
+
 【2020-11-24】Finish IOT lab-1 (https://github.com/SteveZwl/IOT-Lab/blob/main/Lab-1.docx)
 
 【2020-11-23】collected dataset and finish test banch(https://github.com/SteveZwl/Face-Recognition/blob/main/Code%20for%20picture)
