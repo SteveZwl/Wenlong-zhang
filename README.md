@@ -1,5 +1,17 @@
 # Wenlong-zhang
 
+【2020-12-02】Finish IOT lab-9（https://github.com/SteveZwl/IOT-Lab/blob/main/Lab-9.docx）
+
+【2020-12-01】Finish IOT lab-8(https://github.com/SteveZwl/IOT-Lab/blob/main/Lab-8.docx)
+
+【2020-11-30】Finish IOT lab-7(https://github.com/SteveZwl/IOT-Lab/blob/main/Lab-7.docx)
+
+【2020-11-29】Finish IOT lab-6(https://github.com/SteveZwl/IOT-Lab/blob/main/Lab-6.docx)
+
+【2020-11-28】Finish IOT lab-5(https://github.com/SteveZwl/IOT-Lab/blob/main/Lab-5.docx)
+
+【2020-11-27】Finish IOT lab-3and lab-4(https://github.com/SteveZwl/IOT-Lab/blob/main/Lab-3.docx)
+
 【2020-11-26】Finish IOT lab-2 (https://github.com/SteveZwl/IOT-Lab/blob/main/Lab-2.docx)
 
 【2020-11-24】Finish IOT lab-1 (https://github.com/SteveZwl/IOT-Lab/blob/main/Lab-1.docx)
