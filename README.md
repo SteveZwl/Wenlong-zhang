@@ -1,5 +1,9 @@
 # Wenlong-zhang
 
+【2020-12-08】The video for how to use it
+
+【2020-12-05】The final project conclusion (https://blog.csdn.net/SteveZwl/article/details/110878936)
+
 【2020-12-02】Finish IOT lab-9（https://github.com/SteveZwl/IOT-Lab/blob/main/Lab-9.docx）
 
 【2020-12-01】Finish IOT lab-8(https://github.com/SteveZwl/IOT-Lab/blob/main/Lab-8.docx)
