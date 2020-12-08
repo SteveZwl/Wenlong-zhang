@@ -1,6 +1,6 @@
 # Wenlong-zhang
 
-【2020-12-08】The video for how to use it
+【2020-12-08】The video for how to use it(not yet finished )
 
 【2020-12-05】The final project conclusion (https://blog.csdn.net/SteveZwl/article/details/110878936)
 
