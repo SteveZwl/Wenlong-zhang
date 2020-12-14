@@ -26,7 +26,7 @@
 
 【2020-11-17】[Started the face recongonize system design](https://github.com/SteveZwl/Face-Recognition/blob/main/Code%20for%20video)
 
-【2020-11-3】(Researched about Comparison of relevant algorithms about Face Recognition from other IEEE member)https://github.com/hpc203/10kinds-light-face-detector-align-recognition
+【2020-11-3】(Researched about Comparison of relevant algorithms about Face Recognition from other IEEE member)[https://github.com/hpc203/10kinds-light-face-detector-align-recognition]
 
 【2020-10-20】The midterm exam week
 
