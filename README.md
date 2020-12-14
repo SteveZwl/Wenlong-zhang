@@ -4,7 +4,7 @@
 
 【2020-12-05】[The final project conclusion](https://blog.csdn.net/SteveZwl/article/details/110878936)
 
-【2020-12-02】[Finish IoT lab-9](https://github.com/SteveZwl/IoT-Lab/blob/main/Lab-9.docx）
+【2020-12-02】[Finish IoT lab-9](https://github.com/SteveZwl/IoT-Lab/blob/main/Lab-9.docx)
 
 【2020-12-01】[Finish IoT lab-8](https://github.com/SteveZwl/IoT-Lab/blob/main/Lab-8.docx)
 
@@ -18,7 +18,7 @@
 
 【2020-11-26】[Finish IoT lab-2](https://github.com/SteveZwl/IoT-Lab/blob/main/Lab-2.docx)
 
-【2020-11-24】[Finish IoT lab-1] (https://github.com/SteveZwl/IoT-Lab/blob/main/Lab-1.docx)
+【2020-11-24】[Finish IoT lab-1](https://github.com/SteveZwl/IoT-Lab/blob/main/Lab-1.docx)
 
 【2020-11-23】[Collected dataset and finish test banch](https://github.com/SteveZwl/Face-Recognition/blob/main/Code%20for%20picture)
 
@@ -26,11 +26,11 @@
 
 【2020-11-17】[Started the face recongonize system design](https://github.com/SteveZwl/Face-Recognition/blob/main/Code%20for%20video)
 
-【2020-11-3】Researched about Comparison of relevant algorithms(about Face Recognition from other IEEE member)https://github.com/hpc203/10kinds-light-face-detector-align-recognition
+【2020-11-3】(Researched about Comparison of relevant algorithms about Face Recognition from other IEEE member)https://github.com/hpc203/10kinds-light-face-detector-align-recognition
 
 【2020-10-20】The midterm exam week
 
-【2020-10-20】[Face Recognition Project haldware plan] https://github.com/SteveZwl/Face-Recognition/blob/main/Hadware
+【2020-10-20】[Face Recognition Project haldware plan](https://github.com/SteveZwl/Face-Recognition/blob/main/Hadware)
 
 【2020-10-15】[Face Recognition Project Related information (FPGA)](https://github.com/SteveZwl/Face-Recognition/blob/main/FPGA's%20implementation%20of%20face%20position%20recognition)
 
