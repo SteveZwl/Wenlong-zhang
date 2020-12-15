@@ -7,21 +7,21 @@
 
 【2020-12-05】[The final project conclusion](https://blog.csdn.net/SteveZwl/article/details/110878936)
 
-【2020-12-02】[Finish IoT lab-9](https://github.com/SteveZwl/IoT-Lab/blob/main/Lab-9.docx)
+【2020-12-02】[Finish IoT lab-9](https://github.com/SteveZwl/IOT-Lab)
 
-【2020-12-01】[Finish IoT lab-8](https://github.com/SteveZwl/IoT-Lab/blob/main/Lab-8.docx)
+【2020-12-01】[Finish IoT lab-8](https://github.com/SteveZwl/IOT-Lab)
 
-【2020-11-30】[Finish IoT lab-7](https://github.com/SteveZwl/IoT-Lab/blob/main/Lab-7.docx)
+【2020-11-30】[Finish IoT lab-7](https://github.com/SteveZwl/IOT-Lab)
 
-【2020-11-29】[Finish IoT lab-6](https://github.com/SteveZwl/IoT-Lab/blob/main/Lab-6.docx)
+【2020-11-29】[Finish IoT lab-6](https://github.com/SteveZwl/IOT-Lab)
 
-【2020-11-28】[Finish IoT lab-5](https://github.com/SteveZwl/IoT-Lab/blob/main/Lab-5.docx)
+【2020-11-28】[Finish IoT lab-5](https://github.com/SteveZwl/IOT-Lab)
 
-【2020-11-27】[Finish IoT lab-3 and lab-4](https://github.com/SteveZwl/IoT-Lab/blob/main/Lab-3.docx)
+【2020-11-27】[Finish IoT lab-3 and lab-4](https://github.com/SteveZwl/IOT-Lab)
 
-【2020-11-26】[Finish IoT lab-2](https://github.com/SteveZwl/IoT-Lab/blob/main/Lab-2.docx)
+【2020-11-26】[Finish IoT lab-2](https://github.com/SteveZwl/IoT-Lab)
 
-【2020-11-24】[Finish IoT lab-1](https://github.com/SteveZwl/IoT-Lab/blob/main/Lab-1.docx)
+【2020-11-24】[Finish IoT lab-1](https://github.com/SteveZwl/IoT-Lab)
 
 【2020-11-23】[Collected dataset and finish test banch](https://github.com/SteveZwl/Face-Recognition/blob/main/Code%20for%20picture)
 
