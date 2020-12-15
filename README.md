@@ -1,4 +1,7 @@
 # Wenlong-zhang
+【2020-12-15】Finish the report and review for final project. 
+
+【2020-12-10】Finish the video for showing our project
 
 【2020-12-08】The video for showing our project(not yet finished )
 
