@@ -14,7 +14,7 @@
 
 【2020-11-28】[Finish IoT lab-5](https://github.com/SteveZwl/IoT-Lab/blob/main/Lab-5.docx)
 
-【2020-11-27】[Finish IoT lab-3and lab-4](https://github.com/SteveZwl/IoT-Lab/blob/main/Lab-3.docx)
+【2020-11-27】[Finish IoT lab-3 and lab-4](https://github.com/SteveZwl/IoT-Lab/blob/main/Lab-3.docx)
 
 【2020-11-26】[Finish IoT lab-2](https://github.com/SteveZwl/IoT-Lab/blob/main/Lab-2.docx)
 
